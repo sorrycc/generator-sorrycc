@@ -1,18 +1,23 @@
 # <%= props.name %> [![Build Status](https://travis-ci.org/<%= props.user %>/<%= props.name %>.png?branch=master)](https://travis-ci.org/<%= props.user %>/<%= props.name %>) [![Coverage Status](https://coveralls.io/repos/<%= props.user %>/<%= props.name %>/badge.png?branch=master)](https://coveralls.io/r/<%= props.user %>/<%= props.name %>?branch=master) 
 
+[![NPM version](https://img.shields.io/npm/v/<%= props.name %>.svg?style=flat)](https://npmjs.org/package/<%= props.name %>)
+[![Build Status](https://img.shields.io/travis/<%= props.user %>/<%= props.name %>.svg?style=flat)](https://travis-ci.org/<%= props.user %>/<%= props.name %>)
+[![Coverage Status](https://img.shields.io/coveralls/<%= props.user %>/<%= props.name %>.svg?style=flat)](https://coveralls.io/r/<%= props.user %>/<%= props.name %>)
+[![NPM downloads](http://img.shields.io/npm/dm/<%= props.name %>.svg?style=flat)](https://npmjs.org/package/<%= props.name %>)
+
 <%= props.description %>
 
 ---
 
 ## Install
 
-```
+```bash
 $ npm install <%= props.name %> -g
 ```
 
 ## Usage
 
-```
+```bash
 var <%= props.name %> = require('<%= props.name %>');
 ```
 

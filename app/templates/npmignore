@@ -2,6 +2,8 @@ test/
 docs/
 coverage/
 node_modules/
+tmp/
+.idea/
 .npmignore
 .editorconfig
 .travis.yml

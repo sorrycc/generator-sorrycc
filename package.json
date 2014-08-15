@@ -1,13 +1,13 @@
 {
-  "name": "generator-popomore",
+  "name": "generator-sorrycc",
   "version": "0.1.0",
-  "description": "generator for popomore",
+  "description": "generator for sorrycc",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "popomore/generator-popomore",
+  "repository": "sorrycc/generator-popomore",
   "author": {
-    "name": "popomore",
-    "email": "sakura9515@gmail.com"
+    "name": "sorrycc",
+    "email": "sorrycc@gmail.com"
   },
   "engines": {
     "node": ">=0.10.0"
