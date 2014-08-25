@@ -17,7 +17,7 @@
     "url": "<%= repoUrl %>"
   },<% } %><% if (homepage) { %>
   "homepage": "<%= homepage %>",<% } %>
-  "author": "<%= props.user %> <<%= props.email %>>",
+  "author": "chencheng <<%= props.email %>>",
   "license": "<%= props.license %>",
   "scripts": {
     "test": "make test"
