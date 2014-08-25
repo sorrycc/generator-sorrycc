@@ -23,4 +23,4 @@ var <%= props.name %> = require('<%= props.name %>');
 
 ## LISENCE
 
-Copyright (c) <%= currentYear %> <%= props.user %>. Licensed under the <%= props.license %> license.
+Copyright (c) <%= currentYear %> chencheng. Licensed under the <%= props.license %> license.

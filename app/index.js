@@ -45,7 +45,7 @@ var SelfGenerator = yeoman.generators.Base.extend({
     }, {
       name: 'user',
       message: 'Author\'s name',
-      default: this.user.git.username || ''
+      default: 'sorrycc'
     }, {
       name: 'email',
       message: 'Author\'s email',
