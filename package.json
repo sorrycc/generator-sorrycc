@@ -1,6 +1,6 @@
 {
   "name": "generator-sorrycc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "generator for sorrycc",
   "license": "MIT",
   "main": "app/index.js",
