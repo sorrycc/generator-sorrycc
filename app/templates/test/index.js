@@ -4,7 +4,7 @@ var <%= props.name %> = require('..');
 
 describe('<%= props.name %>', function() {
 
-  it('Normal use', function() {
+  it('normal', function() {
 
   });
 

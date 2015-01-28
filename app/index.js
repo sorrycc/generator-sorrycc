@@ -94,6 +94,7 @@ var SelfGenerator = yeoman.generators.Base.extend({
 
   projectfiles: function () {
     this.copy('jshintrc', '.jshintrc');
+    this.copy('jshintignore', '.jshintignore');
     this.copy('gitignore', '.gitignore');
     this.copy('npmignore', '.npmignore');
     this.copy('editorconfig', '.editorconfig');
